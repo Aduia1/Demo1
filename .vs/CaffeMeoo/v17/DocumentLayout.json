@@ -1,0 +1,925 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\adminfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\adminfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminfp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminfinancial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\admincustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\count.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\count.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\bills.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\rating.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\globalvars.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\admindrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\admindrink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminadjust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminadjust.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\adminemployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminemployeemanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\catmng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\catmng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|c:\\users\\pc\\downloads\\caffemeoo\\caffemeoo\\caffemeoo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\masteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\masteruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\migrations\\202412142057092_databasecf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\migrations\\202412142057092_databasecf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\tabledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\tabledetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\beforsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\beforsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\beforsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\beforsignup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\shift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\billdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\billdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\adminfp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\adminfp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\catmng.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\catmng.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\beforsignup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\beforsignup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\billdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\billdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\billdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\billdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\takeusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\takeusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\caffemeoo\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDCD014D-78D2-4509-AB9B-78464B8C8A05}|CaffeMeoo\\CaffeMeoo.csproj|solutionrelative:caffemeoo\\entities\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminProduct.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminProduct.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminProduct.cs",
+              "RelativeToolTip": "CaffeMeoo\\AdminProduct.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:46.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminOrder.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminOrder.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminOrder.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminOrder.cs",
+              "RelativeToolTip": "CaffeMeoo\\AdminOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:42.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminMenu.cs",
+              "RelativeToolTip": "CaffeMeoo\\AdminMenu.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:39.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Adminfinancial.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Adminfinancial.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Adminfinancial.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Adminfinancial.cs",
+              "RelativeToolTip": "CaffeMeoo\\Adminfinancial.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:34.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminCustomer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminCustomer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminCustomer.cs",
+              "RelativeToolTip": "CaffeMeoo\\AdminCustomer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:33:23.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminFP.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminFP.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminFP.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminFP.cs",
+              "RelativeToolTip": "CaffeMeoo\\AdminFP.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:23:21.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Booking.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:31:26.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\CartItem.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\CartItem.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:26:31.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Count.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Count.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Count.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Count.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Count.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:56:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Rating.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Rating.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Rating.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Rating.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Rating.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:29:29.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\User.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:43:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Bills.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Bills.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Bills.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Bills.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Bills.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:30:57.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminFP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminFP.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminFP.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminFP.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminFP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:03:53.302Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminOrder.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminOrder.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminOrder.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminOrder.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:11:11.986Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GlobalVars.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\GlobalVars.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\GlobalVars.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\GlobalVars.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\GlobalVars.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:55:44.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Drink.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Drink.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Drink.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:25:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Customer.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:25:59.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Login.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Login.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Login.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:00:53.474Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminProduct.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminProduct.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminProduct.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:11:41.334Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\User.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\User.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:07:05.762Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CatMng.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\CatMng.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\CatMng.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\CatMng.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\CatMng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:07:28.673Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminMenu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminMenu.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminMenu.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:09:55.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TableDetail.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\TableDetail.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\TableDetail.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\TableDetail.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\TableDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:42:52.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Adminfinancial.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Adminfinancial.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Adminfinancial.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Adminfinancial.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\Adminfinancial.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:30:00.811Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminCustomer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminCustomer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminCustomer.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:31:20.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminEmployeeManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminEmployeeManagement.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminEmployeeManagement.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminEmployeeManagement.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminEmployeeManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:27:12.728Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminEmployee.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminEmployee.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminEmployee.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:28:00.699Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminAdjust.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminAdjust.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminAdjust.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminAdjust.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminAdjust.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:29:25.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDrink.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminDrink.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminDrink.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminDrink.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminDrink.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:30:53.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Program.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Program.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\Program.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T07:14:54.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "202412142057092_DataBaseCF.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Migrations\\202412142057092_DataBaseCF.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Migrations\\202412142057092_DataBaseCF.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Migrations\\202412142057092_DataBaseCF.cs",
+              "RelativeToolTip": "CaffeMeoo\\Migrations\\202412142057092_DataBaseCF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:57:11.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Program.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Program.cs",
+              "RelativeToolTip": "CaffeMeoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T06:39:54.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Employee.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Employee.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:25:15.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Login.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Login.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Login.cs",
+              "RelativeToolTip": "CaffeMeoo\\Login.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:03:16.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Login.Designer.cs",
+              "RelativeToolTip": "CaffeMeoo\\Login.Designer.cs",
+              "ViewState": "AgIAAEUCAAAAAAAAAAAlwAMCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:45:40.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "CaffeMeoo\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:38:52.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CompanyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\CompanyDBContext.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\CompanyDBContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\CompanyDBContext.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\CompanyDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T17:06:16.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Item.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:53:18.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminTable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminTable.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminTable.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminTable.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\AdminTable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T11:12:10.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Table.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Table.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Table.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Table.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:41:00.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "MasterUser.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\MasterUser.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\MasterUser.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\MasterUser.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\MasterUser.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwGQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:32:17.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BeforSignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BeforSignUp.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\BeforSignUp.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BeforSignUp.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\BeforSignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:05:15.564Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\App.config",
+              "RelativeDocumentMoniker": "CaffeMeoo\\App.config",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\App.config",
+              "RelativeToolTip": "CaffeMeoo\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-14T17:22:05.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Shift.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Shift.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Shift.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Shift.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Shift.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:29:56.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BeforSignUp.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BeforSignUp.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\BeforSignUp.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BeforSignUp.cs",
+              "RelativeToolTip": "CaffeMeoo\\BeforSignUp.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:26:15.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BillDetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BillDetailForm.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\BillDetailForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BillDetailForm.cs [Design]",
+              "RelativeToolTip": "CaffeMeoo\\BillDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:06:10.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\User.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\User.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\User.cs",
+              "RelativeToolTip": "CaffeMeoo\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:09:43.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "AdminFP.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminFP.Designer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\AdminFP.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\AdminFP.Designer.cs",
+              "RelativeToolTip": "CaffeMeoo\\AdminFP.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUDAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:25.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BillDetailForm.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BillDetailForm.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\BillDetailForm.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BillDetailForm.cs",
+              "RelativeToolTip": "CaffeMeoo\\BillDetailForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:06:57.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CatMng.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\CatMng.Designer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\CatMng.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\CatMng.Designer.cs",
+              "RelativeToolTip": "CaffeMeoo\\CatMng.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:08:28.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BeforSignUp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BeforSignUp.Designer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\BeforSignUp.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BeforSignUp.Designer.cs",
+              "RelativeToolTip": "CaffeMeoo\\BeforSignUp.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:37.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "BillDetailForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BillDetailForm.Designer.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\BillDetailForm.Designer.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\BillDetailForm.Designer.cs",
+              "RelativeToolTip": "CaffeMeoo\\BillDetailForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T21:11:42.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "TakeUserName.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\TakeUserName.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\TakeUserName.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\TakeUserName.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\TakeUserName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:54:40.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Cat.cs",
+              "RelativeDocumentMoniker": "CaffeMeoo\\Entities\\Cat.cs",
+              "ToolTip": "C:\\Users\\pc\\Downloads\\CaffeMeoo\\CaffeMeoo\\CaffeMeoo\\Entities\\Cat.cs",
+              "RelativeToolTip": "CaffeMeoo\\Entities\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T16:26:41.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
